@@ -1,0 +1,210 @@
+{
+"items":[
+    {
+        "category":"Desayunos",
+        "items":[
+            {
+                "name":"Chilaquiles",
+                "description":"Chilaquiles",
+                "price":"$35.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name":"Birria",
+                "description":"Birria",
+                "price":"$50.00",
+                "image":"img/2.jpg"
+            },
+            {
+                "name":"",
+                "description":"",
+                "price":"$65.00",
+                "image":"img/3.jpg"
+            },
+            {
+                "name":"",
+                "description":"",
+                "price":"$250.00",
+                "image":"img/4.jpg"
+            },
+            {
+                "name":"",
+                "description":"",
+                "price":"$25.00",
+                "image":"img/5.jpg"
+            },
+            {
+                "name":"",
+                "description":"negro",
+                "price":"$85.00",
+                "image":"img/6.jpg"
+            }
+        ]
+    },
+    {
+        "category":"Almuerzos",
+        "items":[
+            {
+                "name":"Almuerzo",
+                "description":"negro",
+                "price":"$55.00",
+                "image":"img/7.jpg"
+            },
+            {
+                "name":"Almuerzo",
+                "description":"",
+                "price":"$75.00",
+                "image":"img/8.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$25.00",
+                "image":"img/9.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$15.00",
+                "image":"img/10.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$52.00",
+                "image":"img/11.jpg"
+            },
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$23.00",
+                "image":"img/12.jpg"
+            }
+        ]
+    },
+    {
+        "category":"Comidas",
+        "items":[
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$35.00",
+                "image":"img/13.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$55.00",
+                "image":"img/14.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$96.00",
+                "image":"img/15.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$25.00",
+                "image":"img/16.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$125.00",
+                "image":"img/17.jpg"
+            },
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$185.00",
+                "image":"img/18.jpg"
+            }
+        ]
+    },
+    {
+        "category":"Postres",
+        "items":[
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$65.00",
+                "image":"img/19.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$85.00",
+                "image":"img/20'.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$85.00",
+                "image":"img/21.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$45.00",
+                "image":"img/22.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$65.00",
+                "image":"img/23.jpg"
+            },
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$75.00",
+                "image":"img/24.jpg"
+            }
+        ]
+    },
+    {
+        "category":"Bebidas",
+        "items":[
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$25.00",
+                "image":"img/25.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$22.50",
+                "image":"img/26.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$10.00",
+                "image":"img/27.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$55.00",
+                "image":"img/28.jpg"
+            },
+            {
+                "name":"Huevito con Tomate y Cafe",
+                "description":"",
+                "price":"$15.00",
+                "image":"img/29.jpg"
+            },
+            {
+                "name":"Huevos Rancheros",
+                "description":"negro",
+                "price":"$15.00",
+                "image":"img/30.jpg"
+            }
+        ]
+    }
+    
+]
+}
